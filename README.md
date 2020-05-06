@@ -1,7 +1,3 @@
-# FIX
-FIX DMG 
-
-
 // Cauta
 
 int battle_melee_attack(LPCHARACTER ch, LPCHARACTER victim)
